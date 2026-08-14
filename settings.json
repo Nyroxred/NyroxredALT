@@ -8,7 +8,7 @@
   "server": {
     "ip": "NyroxSMPgg.aternos.me",
     "port": 45976,
-    "version": "26.2",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player and a tiktoker",
-        "Follow NyroxRed on tiktok!!",
-        "Trying to reach 100 followers"
+        "Follow NyroxRedTT on tiktok!!",
+        "Trying to reach 1000 followers"
       ]
     },
     "chat-log": true,
