@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "NIGGA",
+    "username": "KOTOOOOOOOOOLSOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO",
     "password": "",
     "type": "offline"
   },
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": -60,
-    "z": 0
+    "x": -126,
+    "y": -55,
+    "z": 142
   },
   "utils": {
     "auto-auth": {
