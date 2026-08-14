@@ -8,13 +8,13 @@
   "server": {
     "ip": "NyroxSMPgg.aternos.me",
     "port": 45976,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
     "x": 0,
-    "y": 100,
+    "y": -60,
     "z": 0
   },
   "utils": {
